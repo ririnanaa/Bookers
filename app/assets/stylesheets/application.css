@@ -13,16 +13,4 @@
  *= require_tree .
  *= require_self
  */
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-.index-box{
-  margin: 33px;
-}
-
-.book{
-  margin-bottom: 15px;
-}
