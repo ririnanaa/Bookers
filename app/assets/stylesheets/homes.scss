@@ -1,0 +1,61 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: verdana, arial, helvetica, sans-serif;
+  margin: 30px;
+}
+
+h1{
+  display: flex;
+  align-items: center;
+}
+
+.top{
+  margin-left: 60px;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.start{
+  margin: 30px 60px;
+}
+
+th{
+  padding: 0 15px;
+}
+
+td{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+h2{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.field{
+  padding-top:10px;
+}
+
+.show-box{
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.edit-box{
+  margin-bottom: 15px;
+}
+
+.edit-box-field{
+  margin-top: 15px;
+}
